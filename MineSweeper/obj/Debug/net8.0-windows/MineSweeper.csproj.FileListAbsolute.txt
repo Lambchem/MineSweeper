@@ -1,0 +1,36 @@
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Form1.resources
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.csproj.GenerateResource.cache
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfoInputs.cache
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfo.cs
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.csproj.CoreCompileInputs.cache
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.exe
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.deps.json
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.runtimeconfig.json
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.dll
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.pdb
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.dll
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\refint\MineSweeper.dll
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.pdb
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.genruntimeconfig.cache
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\ref\MineSweeper.dll
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Settings.resources
+E:\CODE\Visual Studio\C#\C#_Forms\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Properties.Resources.resources
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.exe
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.deps.json
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.runtimeconfig.json
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.dll
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.pdb
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Form1.resources
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Properties.Resources.resources
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Settings.resources
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfo.cs
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.dll
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\refint\MineSweeper.dll
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.pdb
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.genruntimeconfig.cache
+C:\Users\dell\Desktop\杨佳宇-37220232203885-数据结构大作业-扫雷（MineSweeper）\MineSweeper\obj\Debug\net8.0-windows\ref\MineSweeper.dll
