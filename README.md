@@ -40,13 +40,6 @@ This repository contains a simple implementation of the classic MineSweeper game
    dotnet run
    ```
 
-## Screenshots
-
-Here are some screenshots of the game:
-
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
-
 ## Contributing
 
 Contributions are welcome! If you would like to add features, fix bugs, or improve the codebase, please follow these steps:
